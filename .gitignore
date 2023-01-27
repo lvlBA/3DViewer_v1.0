@@ -1,10 +1,16 @@
+build*
+/ui/build*
+settings.json
+.DS_Store
+*.user
+
 # Prerequisites
 *.d
 
 # Object files
 *.o
 *.ko
-*.obj
+# *.obj
 *.elf
 
 # Linker output
