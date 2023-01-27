@@ -1,9 +1,3 @@
-/*
- *   Copyright DATAN(c) 2023
- *   3DViewer_v1.0 made by bernardi, joaquind, stonehom, hazzeasu, killeral
- *   All rights reserved.
- */
-
 #ifndef SRC_S21_MATRIX_H_
 #define SRC_S21_MATRIX_H_
 

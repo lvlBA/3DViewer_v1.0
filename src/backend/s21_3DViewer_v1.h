@@ -1,9 +1,3 @@
-/*
- *   Copyright DATAN(c) 2023
- *   3DViewer_v1.0 made by bernardi, joaquind, stonehom, hazzeasu, killeral
- *   All rights reserved.
- */
-
 #ifndef S21_3DVIEWER_V1_H
 #define S21_3DVIEWER_V1_H
 

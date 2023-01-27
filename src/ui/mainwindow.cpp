@@ -1,9 +1,3 @@
-/*
- *   Copyright DATAN(c) 2023
- *   3DViewer_v1.0 made by bernardi, joaquind, stonehom, hazzeasu, killeral
- *   All rights reserved.
- */
-
 #include "mainwindow.h"
 
 #include "glwidget.h"
